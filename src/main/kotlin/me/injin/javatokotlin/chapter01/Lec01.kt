@@ -1,4 +1,4 @@
-package me.injin.javatokotlin.lec01
+package me.injin.javatokotlin.chapter01
 
 class Lec01
 
