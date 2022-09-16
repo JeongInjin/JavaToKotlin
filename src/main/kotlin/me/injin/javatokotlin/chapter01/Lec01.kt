@@ -14,7 +14,7 @@ fun main() {
     var number5: Long?
     number5 = null
 
-    var person = Person("인진")
+    var person = Person(name = "인진", age = 10)
 }
 
-class Person(name: String)
+class Person(name: String, age: Int)
