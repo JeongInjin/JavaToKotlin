@@ -1,4 +1,4 @@
-package me.injin.javatokotlin.chapter02
+package me.injin.javatokotlin.chapter03
 
 class Lec10
 
