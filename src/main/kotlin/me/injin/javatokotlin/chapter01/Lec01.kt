@@ -1,5 +1,7 @@
 package me.injin.javatokotlin.chapter01
 
+import me.injin.javatokotlin.etc.Person
+
 class Lec01
 
 fun main() {
@@ -16,5 +18,3 @@ fun main() {
 
     var person = Person(name = "인진", age = 10)
 }
-
-class Person(name: String, age: Int)

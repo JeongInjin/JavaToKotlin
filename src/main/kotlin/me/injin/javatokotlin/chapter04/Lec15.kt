@@ -58,6 +58,9 @@ fun main() {
     for ((k, v) in numberMap.entries) {
         println("$k: $v")
     }
+    for ((k, v) in numberMap) {
+        println("$k: $v")
+    }
 
     //Collection null
         //List<Int?>: 리스트에 null 이 들어갈 수 있지마, 리스트는 절대 null 이 아님.
